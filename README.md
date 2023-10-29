@@ -8,7 +8,7 @@ The objective of this project is to ensure a stable and robust digital ecosystem
 
 ## Project Summary
 
-* I have created my own token named "Tush" abbreviated as "Man". There is the record of its total supply. And if someone mints some "Ban" tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply.
+* I have created my own token named "Tush" abbreviated as "Man". There is the record of its total supply. And if someone mints some "Man" tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply.
 
 ## Setup
 
