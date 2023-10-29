@@ -1,22 +1,22 @@
 ## Solid_Token_Builder
 
-#Abstract
+##Abstract
 
 The objective of this project is to ensure a stable and robust digital ecosystem by creating a custom token through the application of the Solidity language.
 
-#Project Summary
+##Project Summary
 
 * I have created my own token named "Tush" abbreviated as "Man". There is the record of its total supply. And if someone mints some "Ban" tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply.
 
-#Setup
+##Setup
 
 * The project was primarily executed on the Online Remix IDE, followed by the creation of the 'Tu.sol' file within this repository to facilitate seamless integration with GitHub.
 
-#Implementation
+##Implementation
 
 The execution of the code was managed using the remix.ide platform.
 
-#Functional Workflow
+##Functional Workflow
 
 1.	Initialization by creating a designated folder.
 2.	Automatic compilation and code execution facilitated by the Remix tool or manual execution via the "Compile and Run" option.
@@ -33,11 +33,11 @@ The execution of the code was managed using the remix.ide platform.
 13.	The contract encompasses all essential functionalities highlighted above.
 
 
-#Author
+##Author
 
 Tushar Manerao
 
-#License Information
+##License Information
 
 This project operates under the guidelines of the [MIT] License.
 
